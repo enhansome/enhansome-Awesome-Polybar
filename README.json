@@ -1,0 +1,566 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Updates pacman aurhelper",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-24T07:26:47Z",
+            "owner": "polybar",
+            "repo": "polybar-scripts",
+            "stars": 2634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cpu Temppercore",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-24T07:26:47Z",
+            "owner": "polybar",
+            "repo": "polybar-scripts",
+            "stars": 2634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fan Speed",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-24T07:26:47Z",
+            "owner": "polybar",
+            "repo": "polybar-scripts",
+            "stars": 2634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Is Active Bluetooth?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-24T07:26:47Z",
+            "owner": "polybar",
+            "repo": "polybar-scripts",
+            "stars": 2634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inbox Reddit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-09-24T07:26:47Z",
+            "owner": "polybar",
+            "repo": "polybar-scripts",
+            "stars": 2634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotify (with scrolling)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-04-15T08:39:05Z",
+            "owner": "PrayagS",
+            "repo": "polybar-spotify",
+            "stars": 627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spotify",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-05T10:50:34Z",
+            "owner": "Jvanrhijn",
+            "repo": "polybar-spotify",
+            "stars": 591
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulseaudio Control",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-21T11:31:52Z",
+            "owner": "marioortizmanero",
+            "repo": "polybar-pulseaudio-control",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gnome Pomodoro",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-28T14:34:43Z",
+            "owner": "kantord",
+            "repo": "i3-gnome-pomodoro",
+            "stars": 240
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KDEConnect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-01-05T14:08:13Z",
+            "owner": "haideralipunjabi",
+            "repo": "polybar-kdeconnect",
+            "stars": 171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forecast",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-06-17T01:26:06Z",
+            "owner": "kamek-pf",
+            "repo": "polybar-forecast",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gmail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-11T14:57:53Z",
+            "owner": "crabvk",
+            "repo": "bar-gmail",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polytiramisu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-02T11:26:35Z",
+            "owner": "anufrievroman",
+            "repo": "polytiramisu",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crypto",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-08T21:46:11Z",
+            "owner": "willHol",
+            "repo": "polybar-crypto",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "i3 Windows",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-11T15:12:05Z",
+            "owner": "meelkor",
+            "repo": "polybar-i3-windows",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poly News",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-12T22:43:29Z",
+            "owner": "zemmsoares",
+            "repo": "polybar-news",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browser Media",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-09T12:29:23Z",
+            "owner": "haideralipunjabi",
+            "repo": "polybar-browsermediacontrol",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProtonMail",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-16T16:23:47Z",
+            "owner": "crabvk",
+            "repo": "bar-protonmail",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminal Tabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-05-03T22:46:08Z",
+            "owner": "Nikzt",
+            "repo": "polybar-terminal-tabs",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Now Playing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-02-04T23:28:52Z",
+            "owner": "0nse",
+            "repo": "now_playing",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bspwm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2022-05-13T20:44:47Z",
+            "owner": "rummanz",
+            "repo": "bspwm-polybar",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "speedtest.net",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-21T14:28:46Z",
+            "owner": "haideralipunjabi",
+            "repo": "polybar-speedtest",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Animations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-02T08:05:51Z",
+            "owner": "stav121",
+            "repo": "polybar-animations",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qBittorrent",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-21T14:29:30Z",
+            "owner": "haideralipunjabi",
+            "repo": "polybar-qbittorrent",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cmus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-05-26T20:20:38Z",
+            "owner": "raytruong",
+            "repo": "polybar-cmus",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Battery Level",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-08-20T19:03:59Z",
+            "owner": "drdeimos",
+            "repo": "polybar_another_battery",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PulseEffects Presets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-08-10T10:23:19Z",
+            "owner": "marioortizmanero",
+            "repo": "polybar-easyeffects-presets",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Systemd Services",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-01-02T11:50:55Z",
+            "owner": "erayaydin",
+            "repo": "polybar-services",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T15:14:11Z",
+            "owner": "TiagoDanin",
+            "repo": "Polybar-GitHub",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pomod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nim",
+            "last_commit": "2020-03-08T00:04:29Z",
+            "owner": "liquidev",
+            "repo": "pomod",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Status one liner",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-28T14:39:17Z",
+            "owner": "kantord",
+            "repo": "twm-status-builder",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker Script",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-07-20T23:46:09Z",
+            "owner": "kerwanp",
+            "repo": "polybar-script-docker",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProtonCheck",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2022-02-13T16:00:10Z",
+            "owner": "servusdei2018",
+            "repo": "protoncheck",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Break Timer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T15:43:46Z",
+            "owner": "TiagoDanin",
+            "repo": "Polybar-Break-Timer",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitfinex",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-03-20T20:30:02Z",
+            "owner": "BrunnerLivio",
+            "repo": "bitfinex-polybar",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lastfm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-03T15:11:20Z",
+            "owner": "TiagoDanin",
+            "repo": "Polybar-Lastfm",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tidal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-21T20:31:30Z",
+            "owner": "monadplus",
+            "repo": "polybar-tidal",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Checkupdate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2018-08-06T02:18:01Z",
+            "owner": "ggteixeira",
+            "repo": "Polybar-Check-Update",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task Warrior",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, Tiago Danin has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:04:51.512Z",
+    "original_repository": "TiagoDanin/Awesome-Polybar",
+    "original_repository_sha": "6f517282ee2c811d96304f3731a290a230dfda62",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Polybar",
+    "enhanced_repository_description": null,
+    "title": "Awesome Polybar with stars"
+  }
+}
