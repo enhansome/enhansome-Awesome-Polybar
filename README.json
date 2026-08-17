@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-09-24T07:26:47Z",
+            "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2635
+            "stars": 2634
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-09-24T07:26:47Z",
+            "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2635
+            "stars": 2634
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-09-24T07:26:47Z",
+            "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2635
+            "stars": 2634
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-09-24T07:26:47Z",
+            "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2635
+            "stars": 2634
           }
         },
         {
@@ -67,10 +67,10 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2025-09-24T07:26:47Z",
+            "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2635
+            "stars": 2634
           }
         },
         {
@@ -556,7 +556,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:40:19.129Z",
+    "last_updated": "2026-08-17T11:45:34.451Z",
     "original_repository": "TiagoDanin/Awesome-Polybar",
     "original_repository_sha": "6f517282ee2c811d96304f3731a290a230dfda62",
     "enhanced_repository": "enhansome/enhansome-Awesome-Polybar",
