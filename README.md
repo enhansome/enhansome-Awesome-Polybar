@@ -1,7 +1,7 @@
 # Awesome Polybar with stars
 
 > A curated list of [Polybar
-> ](https://github.com/jaagr/polybar/) ⭐ 15,335 | 🐛 232 | 🌐 C++ | 📅 2025-09-24
+> ](https://github.com/jaagr/polybar/) ⭐ 15,338 | 🐛 232 | 🌐 C++ | 📅 2025-09-24
 
 ## Contents
 
@@ -27,7 +27,7 @@
 * [i3 Windows](https://github.com/meelkor/polybar-i3-windows) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2022-07-11
 * [Poly News](https://github.com/zemmsoares/polynews) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2023-07-12
 * [Browser Media](https://github.com/HackeSta/polybar-browsermediacontrol) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2021-03-09
-* [ProtonMail](https://github.com/vyachkonovalov/bar-protonmail) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-02-16
+* [ProtonMail](https://github.com/vyachkonovalov/bar-protonmail) ⭐ 44 | 🐛 2 | 🌐 Python | 📅 2026-02-16
 * [Terminal Tabs](https://github.com/Nikzt/polybar-terminal-tabs) ⭐ 35 | 🐛 1 | 🌐 Shell | 📅 2018-05-03
 * [Now Playing](https://github.com/0nse/now_playing) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2017-02-04
 * [Bspwm](https://github.com/altrgeek/bspwm-polybar) ⭐ 31 | 🐛 0 | 🌐 CSS | 📅 2022-05-13
@@ -68,4 +68,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
