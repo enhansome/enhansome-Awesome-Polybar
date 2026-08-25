@@ -425,7 +425,7 @@
         },
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "TiagoDanin/Polybar-GitHub",
           "description": null,
           "children": [],
           "repo_info": {
@@ -578,7 +578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:16.559Z",
+    "last_updated": "2026-08-25T06:17:23.167Z",
     "original_repository": "TiagoDanin/Awesome-Polybar",
     "original_repository_id": 129280452,
     "original_repository_sha": "6f517282ee2c811d96304f3731a290a230dfda62",
