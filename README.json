@@ -15,8 +15,9 @@
             "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2634
-          }
+            "stars": 2635
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2634
-          }
+            "stars": 2635
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2634
-          }
+            "stars": 2635
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2634
-          }
+            "stars": 2635
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2026-08-16T15:43:02Z",
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2634
-          }
+            "stars": 2635
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "PrayagS",
             "repo": "polybar-spotify",
             "stars": 627
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "Jvanrhijn",
             "repo": "polybar-spotify",
             "stars": 591
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "marioortizmanero",
             "repo": "polybar-pulseaudio-control",
             "stars": 488
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "kantord",
             "repo": "i3-gnome-pomodoro",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "haideralipunjabi",
             "repo": "polybar-kdeconnect",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "kamek-pf",
             "repo": "polybar-forecast",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "crabvk",
             "repo": "bar-gmail",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "anufrievroman",
             "repo": "polytiramisu",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "willHol",
             "repo": "polybar-crypto",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "meelkor",
             "repo": "polybar-i3-windows",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "zemmsoares",
             "repo": "polybar-news",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "haideralipunjabi",
             "repo": "polybar-browsermediacontrol",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "crabvk",
             "repo": "bar-protonmail",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "Nikzt",
             "repo": "polybar-terminal-tabs",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "0nse",
             "repo": "now_playing",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "rummanz",
             "repo": "bspwm-polybar",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "haideralipunjabi",
             "repo": "polybar-speedtest",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "stav121",
             "repo": "polybar-animations",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "haideralipunjabi",
             "repo": "polybar-qbittorrent",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "raytruong",
             "repo": "polybar-cmus",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -391,7 +416,8 @@
             "owner": "drdeimos",
             "repo": "polybar_another_battery",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "marioortizmanero",
             "repo": "polybar-easyeffects-presets",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "erayaydin",
             "repo": "polybar-services",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "TiagoDanin",
             "repo": "Polybar-GitHub",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "liquidev",
             "repo": "pomod",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "kantord",
             "repo": "twm-status-builder",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "kerwanp",
             "repo": "polybar-script-docker",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "servusdei2018",
             "repo": "protoncheck",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -511,7 +544,8 @@
             "owner": "TiagoDanin",
             "repo": "Polybar-Break-Timer",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -526,7 +560,8 @@
             "owner": "BrunnerLivio",
             "repo": "bitfinex-polybar",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -541,7 +576,8 @@
             "owner": "TiagoDanin",
             "repo": "Polybar-Lastfm",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -556,7 +592,8 @@
             "owner": "monadplus",
             "repo": "polybar-tidal",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         },
         {
           "node_type": "item",
@@ -571,14 +608,15 @@
             "owner": "ggteixeira",
             "repo": "Polybar-Check-Update",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:27:35.865Z"
         }
       ],
       "title": "Plugins"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:03:47.577Z",
+    "last_updated": "2026-08-28T21:27:35.865Z",
     "original_repository_info": {
       "archived": false,
       "id": 129280452,

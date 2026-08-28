@@ -1,7 +1,7 @@
 # Awesome Polybar with stars
 
 > A curated list of [Polybar
-> ](https://github.com/jaagr/polybar/) ⭐ 15,333 | 🐛 233 | 🌐 C++ | 📅 2025-09-24
+> ](https://github.com/jaagr/polybar/) ⭐ 15,335 | 🐛 233 | 🌐 C++ | 📅 2025-09-24
 
 ## Contents
 
@@ -10,11 +10,11 @@
 
 ## Plugins
 
-* [Updates pacman aurhelper](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman-aurhelper) ⭐ 2,634 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
-* [Cpu Temppercore](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-cpu-temppercore) ⭐ 2,634 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
-* [Fan Speed](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-fan-speed) ⭐ 2,634 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
-* [Is Active Bluetooth?](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/isactive-bluetooth) ⭐ 2,634 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
-* [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit) ⭐ 2,634 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
+* [Updates pacman aurhelper](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman-aurhelper) ⭐ 2,635 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
+* [Cpu Temppercore](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-cpu-temppercore) ⭐ 2,635 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
+* [Fan Speed](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-fan-speed) ⭐ 2,635 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
+* [Is Active Bluetooth?](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/isactive-bluetooth) ⭐ 2,635 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
+* [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit) ⭐ 2,635 | 🐛 18 | 🌐 Shell | 📅 2026-08-16
 * [Spotify (with scrolling)](https://github.com/PrayagS/polybar-spotify) ⭐ 627 | 🐛 3 | 🌐 Shell | 📅 2024-04-15
 * [Spotify](https://github.com/Jvanrhijn/polybar-spotify) ⭐ 591 | 🐛 11 | 🌐 Python | 📅 2024-06-05
 * [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control) ⭐ 488 | 🐛 12 | 🌐 Shell | 📅 2024-05-21
@@ -68,4 +68,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
