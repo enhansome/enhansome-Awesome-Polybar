@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -49,7 +49,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -79,7 +79,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -109,7 +109,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -139,7 +139,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -169,7 +169,7 @@
             "open_issues": 3,
             "owner": "PrayagS",
             "repo": "polybar-spotify",
-            "stars": 627,
+            "stars": 626,
             "topics": [
               "hacktoberfest",
               "polybar",
@@ -433,7 +433,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-07-12T22:43:29Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "zemmsoares",
             "repo": "polybar-news",
             "stars": 51,
@@ -494,7 +494,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-16T16:23:47Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "crabvk",
             "repo": "bar-protonmail",
             "stars": 44,
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:09:03.602Z",
+    "last_updated": "2026-09-03T15:03:22.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
