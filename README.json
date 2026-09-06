@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T13:54:36.314Z",
+    "last_updated": "2026-09-06T14:14:48.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
@@ -994,7 +994,7 @@
       "open_issues": 0,
       "owner": "TiagoDanin",
       "repo": "Awesome-Polybar",
-      "stars": 500,
+      "stars": 501,
       "topics": [
         "awesome",
         "awesome-list",
