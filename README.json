@@ -169,7 +169,7 @@
             "open_issues": 3,
             "owner": "PrayagS",
             "repo": "polybar-spotify",
-            "stars": 626,
+            "stars": 625,
             "topics": [
               "hacktoberfest",
               "polybar",
@@ -494,7 +494,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-02-16T16:23:47Z",
-            "open_issues": 2,
+            "open_issues": 1,
             "owner": "crabvk",
             "repo": "bar-protonmail",
             "stars": 45,
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T15:03:02.843Z",
+    "last_updated": "2026-09-11T15:05:23.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
