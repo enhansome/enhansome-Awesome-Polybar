@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -49,7 +49,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -79,7 +79,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -109,7 +109,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -139,7 +139,7 @@
             "open_issues": 18,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2635,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -196,7 +196,7 @@
             "open_issues": 11,
             "owner": "Jvanrhijn",
             "repo": "polybar-spotify",
-            "stars": 591,
+            "stars": 590,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:35.865Z"
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T14:44:33.556Z",
+    "last_updated": "2026-09-21T17:07:04.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
