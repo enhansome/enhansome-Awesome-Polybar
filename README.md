@@ -1,7 +1,7 @@
 # Awesome Polybar with stars
 
 > A curated list of [Polybar
-> ](https://github.com/jaagr/polybar/) ⭐ 15,344 | 🐛 236 | 🌐 C++ | 📅 2025-09-24
+> ](https://github.com/jaagr/polybar/) ⭐ 15,346 | 🐛 236 | 🌐 C++ | 📅 2025-09-24
 
 ## Contents
 
@@ -68,4 +68,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
