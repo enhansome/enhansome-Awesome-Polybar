@@ -1,7 +1,7 @@
 # Awesome Polybar with stars
 
 > A curated list of [Polybar
-> ](https://github.com/jaagr/polybar/) ⭐ 15,345 | 🐛 236 | 🌐 C++ | 📅 2025-09-24
+> ](https://github.com/jaagr/polybar/) ⭐ 15,346 | 🐛 236 | 🌐 C++ | 📅 2025-09-24
 
 ## Contents
 
