@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Updates pacman aurhelper",
-          "description": null,
+          "description": "polybar/polybar-scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -36,7 +36,7 @@
         {
           "node_type": "item",
           "title": "Cpu Temppercore",
-          "description": null,
+          "description": "polybar/polybar-scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "Fan Speed",
-          "description": null,
+          "description": "polybar/polybar-scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -96,7 +96,7 @@
         {
           "node_type": "item",
           "title": "Is Active Bluetooth?",
-          "description": null,
+          "description": "polybar/polybar-scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "Inbox Reddit",
-          "description": null,
+          "description": "polybar/polybar-scripts",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -156,7 +156,7 @@
         {
           "node_type": "item",
           "title": "Spotify (with scrolling)",
-          "description": null,
+          "description": "PrayagS/polybar-spotify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -169,7 +169,7 @@
             "open_issues": 3,
             "owner": "PrayagS",
             "repo": "polybar-spotify",
-            "stars": 626,
+            "stars": 624,
             "topics": [
               "hacktoberfest",
               "polybar",
@@ -183,7 +183,7 @@
         {
           "node_type": "item",
           "title": "Spotify",
-          "description": null,
+          "description": "Jvanrhijn/polybar-spotify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -204,7 +204,7 @@
         {
           "node_type": "item",
           "title": "Pulseaudio Control",
-          "description": null,
+          "description": "marioortizmanero/polybar-pulseaudio-control",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -235,7 +235,7 @@
         {
           "node_type": "item",
           "title": "Gnome Pomodoro",
-          "description": null,
+          "description": "kantord/i3-gnome-pomodoro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -266,7 +266,7 @@
         {
           "node_type": "item",
           "title": "KDEConnect",
-          "description": null,
+          "description": "haideralipunjabi/polybar-kdeconnect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -297,7 +297,7 @@
         {
           "node_type": "item",
           "title": "Forecast",
-          "description": null,
+          "description": "kamek-pf/polybar-forecast",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -322,7 +322,7 @@
         {
           "node_type": "item",
           "title": "Gmail",
-          "description": null,
+          "description": "crabvk/bar-gmail",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -346,7 +346,7 @@
         {
           "node_type": "item",
           "title": "Polytiramisu",
-          "description": null,
+          "description": "anufrievroman/polytiramisu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -375,7 +375,7 @@
         {
           "node_type": "item",
           "title": "Crypto",
-          "description": null,
+          "description": "willHol/polybar-crypto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -396,7 +396,7 @@
         {
           "node_type": "item",
           "title": "i3 Windows",
-          "description": null,
+          "description": "meelkor/polybar-i3-windows",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -423,7 +423,7 @@
         {
           "node_type": "item",
           "title": "Poly News",
-          "description": null,
+          "description": "zemmsoares/polybar-news",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -453,7 +453,7 @@
         {
           "node_type": "item",
           "title": "Browser Media",
-          "description": null,
+          "description": "haideralipunjabi/polybar-browsermediacontrol",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -484,7 +484,7 @@
         {
           "node_type": "item",
           "title": "ProtonMail",
-          "description": null,
+          "description": "crabvk/bar-protonmail",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -509,7 +509,7 @@
         {
           "node_type": "item",
           "title": "Terminal Tabs",
-          "description": null,
+          "description": "Nikzt/polybar-terminal-tabs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,7 +530,7 @@
         {
           "node_type": "item",
           "title": "Now Playing",
-          "description": null,
+          "description": "0nse/now_playing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -558,7 +558,7 @@
         {
           "node_type": "item",
           "title": "Bspwm",
-          "description": null,
+          "description": "rummanz/bspwm-polybar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -586,7 +586,7 @@
         {
           "node_type": "item",
           "title": "speedtest.net",
-          "description": null,
+          "description": "haideralipunjabi/polybar-speedtest",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -607,7 +607,7 @@
         {
           "node_type": "item",
           "title": "Animations",
-          "description": null,
+          "description": "stav121/polybar-animations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -628,7 +628,7 @@
         {
           "node_type": "item",
           "title": "qBittorrent",
-          "description": null,
+          "description": "haideralipunjabi/polybar-qbittorrent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -658,7 +658,7 @@
         {
           "node_type": "item",
           "title": "Cmus",
-          "description": null,
+          "description": "raytruong/polybar-cmus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -679,7 +679,7 @@
         {
           "node_type": "item",
           "title": "Battery Level",
-          "description": null,
+          "description": "drdeimos/polybar_another_battery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -700,7 +700,7 @@
         {
           "node_type": "item",
           "title": "PulseEffects Presets",
-          "description": null,
+          "description": "marioortizmanero/polybar-easyeffects-presets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -721,7 +721,7 @@
         {
           "node_type": "item",
           "title": "Systemd Services",
-          "description": null,
+          "description": "erayaydin/polybar-services",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -745,7 +745,7 @@
         {
           "node_type": "item",
           "title": "TiagoDanin/Polybar-GitHub",
-          "description": null,
+          "description": "TiagoDanin/Polybar-GitHub",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -770,7 +770,7 @@
         {
           "node_type": "item",
           "title": "pomod",
-          "description": null,
+          "description": "liquidev/pomod",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -791,7 +791,7 @@
         {
           "node_type": "item",
           "title": "Status one liner",
-          "description": null,
+          "description": "kantord/twm-status-builder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -812,7 +812,7 @@
         {
           "node_type": "item",
           "title": "Docker Script",
-          "description": null,
+          "description": "kerwanp/polybar-script-docker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -833,7 +833,7 @@
         {
           "node_type": "item",
           "title": "ProtonCheck",
-          "description": null,
+          "description": "servusdei2018/protoncheck",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -860,7 +860,7 @@
         {
           "node_type": "item",
           "title": "Break Timer",
-          "description": null,
+          "description": "TiagoDanin/Polybar-Break-Timer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -885,7 +885,7 @@
         {
           "node_type": "item",
           "title": "Bitfinex",
-          "description": null,
+          "description": "BrunnerLivio/bitfinex-polybar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -906,7 +906,7 @@
         {
           "node_type": "item",
           "title": "Lastfm",
-          "description": null,
+          "description": "TiagoDanin/Polybar-Lastfm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -931,7 +931,7 @@
         {
           "node_type": "item",
           "title": "Tidal",
-          "description": null,
+          "description": "monadplus/polybar-tidal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -955,7 +955,7 @@
         {
           "node_type": "item",
           "title": "Checkupdate",
-          "description": null,
+          "description": "ggteixeira/Polybar-Check-Update",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:42:55.496Z",
+    "last_updated": "2026-10-03T04:29:16.931Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
