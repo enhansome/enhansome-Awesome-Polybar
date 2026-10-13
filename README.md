@@ -19,7 +19,7 @@
 * [Spotify](https://github.com/Jvanrhijn/polybar-spotify) ⭐ 590 | 🐛 11 | 🌐 Python | 📅 2024-06-05
 * [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control) ⭐ 487 | 🐛 12 | 🌐 Shell | 📅 2024-05-21
 * [Gnome Pomodoro](https://github.com/kantord/i3-gnome-pomodoro) ⭐ 239 | 🐛 7 | 🌐 Python | 📅 2026-02-28
-* [KDEConnect](https://github.com/HackeSta/polybar-kdeconnect) ⭐ 168 | 🐛 6 | 🌐 Shell | 📅 2021-01-05
+* [KDEConnect](https://github.com/HackeSta/polybar-kdeconnect) ⭐ 169 | 🐛 6 | 🌐 Shell | 📅 2021-01-05
 * [Forecast](https://github.com/kamek-pf/polybar-forecast) ⭐ 100 | 🐛 13 | 🌐 Rust | 📅 2022-06-17
 * [Gmail](https://github.com/vyachkonovalov/polybar-gmail) ⭐ 90 | 🐛 0 | 🌐 Python | 📅 2025-01-11
 * [Polytiramisu](https://github.com/anufrievroman/polytiramisu) ⭐ 57 | 🐛 0 | 🌐 Shell | 📅 2024-01-02
@@ -28,12 +28,12 @@
 * [Poly News](https://github.com/zemmsoares/polynews) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2023-07-12
 * [Browser Media](https://github.com/HackeSta/polybar-browsermediacontrol) ⭐ 50 | 🐛 1 | 🌐 Python | 📅 2021-03-09
 * [ProtonMail](https://github.com/vyachkonovalov/bar-protonmail) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2026-02-16
-* [Terminal Tabs](https://github.com/Nikzt/polybar-terminal-tabs) ⭐ 35 | 🐛 1 | 🌐 Shell | 📅 2018-05-03
+* [Terminal Tabs](https://github.com/Nikzt/polybar-terminal-tabs) ⭐ 36 | 🐛 1 | 🌐 Shell | 📅 2018-05-03
 * [Now Playing](https://github.com/0nse/now_playing) ⭐ 34 | 🐛 0 | 🌐 Python | 📅 2017-02-04
 * [Bspwm](https://github.com/altrgeek/bspwm-polybar) ⭐ 31 | 🐛 0 | 🌐 CSS | 📅 2022-05-13
-* [speedtest.net](https://github.com/HackeSta/polybar-speedtest) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2020-12-21
+* [speedtest.net](https://github.com/HackeSta/polybar-speedtest) ⭐ 30 | 🐛 0 | 🌐 Python | 📅 2020-12-21
 * [Animations](https://github.com/unix121/polybar-animations) ⭐ 26 | 🐛 2 | 🌐 Python | 📅 2021-05-02
-* [qBittorrent](https://github.com/HackeSta/polybar-qbittorrent) ⭐ 24 | 🐛 0 | 🌐 Python | 📅 2020-12-21
+* [qBittorrent](https://github.com/HackeSta/polybar-qbittorrent) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2020-12-21
 * [Cmus](https://github.com/raytruong/polybar-cmus) ⭐ 20 | 🐛 2 | 🌐 Shell | 📅 2021-05-26
 * [Battery Level](https://github.com/drdeimos/polybar_another_battery) ⭐ 19 | 🐛 0 | 🌐 Go | 📅 2023-08-20
 * [PulseEffects Presets](https://github.com/marioortizmanero/polybar-pulseeffects-presets) ⭐ 19 | 🐛 3 | 🌐 Shell | 📅 2021-08-10
@@ -68,4 +68,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
