@@ -169,7 +169,7 @@
             "open_issues": 3,
             "owner": "PrayagS",
             "repo": "polybar-spotify",
-            "stars": 624,
+            "stars": 623,
             "topics": [
               "hacktoberfest",
               "polybar",
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:16:56.290Z",
+    "last_updated": "2026-10-18T14:40:23.909Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
