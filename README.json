@@ -217,7 +217,7 @@
             "open_issues": 12,
             "owner": "marioortizmanero",
             "repo": "polybar-pulseaudio-control",
-            "stars": 487,
+            "stars": 488,
             "topics": [
               "audio",
               "control",
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T17:07:52.321Z",
+    "last_updated": "2026-11-09T21:29:28.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",

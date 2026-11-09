@@ -17,7 +17,7 @@
 * [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit) ⭐ 2,636 | 🐛 19 | 🌐 Shell | 📅 2026-10-23
 * [Spotify (with scrolling)](https://github.com/PrayagS/polybar-spotify) ⭐ 625 | 🐛 3 | 🌐 Shell | 📅 2024-04-15
 * [Spotify](https://github.com/Jvanrhijn/polybar-spotify) ⭐ 590 | 🐛 11 | 🌐 Python | 📅 2024-06-05
-* [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control) ⭐ 487 | 🐛 12 | 🌐 Shell | 📅 2024-05-21
+* [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control) ⭐ 488 | 🐛 12 | 🌐 Shell | 📅 2024-05-21
 * [Gnome Pomodoro](https://github.com/kantord/i3-gnome-pomodoro) ⭐ 240 | 🐛 7 | 🌐 Python | 📅 2026-02-28
 * [KDEConnect](https://github.com/HackeSta/polybar-kdeconnect) ⭐ 169 | 🐛 6 | 🌐 Shell | 📅 2021-01-05
 * [Forecast](https://github.com/kamek-pf/polybar-forecast) ⭐ 100 | 🐛 13 | 🌐 Rust | 📅 2022-06-17
@@ -68,4 +68,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
