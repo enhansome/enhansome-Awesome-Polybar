@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -49,7 +49,7 @@
             "open_issues": 19,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -79,7 +79,7 @@
             "open_issues": 19,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -109,7 +109,7 @@
             "open_issues": 19,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -139,7 +139,7 @@
             "open_issues": 19,
             "owner": "polybar",
             "repo": "polybar-scripts",
-            "stars": 2636,
+            "stars": 2637,
             "topics": [
               "dotfiles",
               "hacktoberfest",
@@ -245,7 +245,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-02-28T14:34:43Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "kantord",
             "repo": "i3-gnome-pomodoro",
             "stars": 240,
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T21:29:28.182Z",
+    "last_updated": "2026-11-10T18:43:14.087Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
