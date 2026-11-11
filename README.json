@@ -245,7 +245,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-02-28T14:34:43Z",
-            "open_issues": 8,
+            "open_issues": 7,
             "owner": "kantord",
             "repo": "i3-gnome-pomodoro",
             "stars": 240,
@@ -359,7 +359,7 @@
             "open_issues": 0,
             "owner": "anufrievroman",
             "repo": "polytiramisu",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "linux",
               "notifications",
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T18:43:14.087Z",
+    "last_updated": "2026-11-11T18:46:02.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",

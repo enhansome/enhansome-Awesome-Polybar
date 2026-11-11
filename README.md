@@ -1,7 +1,7 @@
 # Awesome Polybar with stars
 
 > A curated list of [Polybar
-> ](https://github.com/jaagr/polybar/) ⭐ 15,371 | 🐛 234 | 🌐 C++ | 📅 2025-09-24
+> ](https://github.com/jaagr/polybar/) ⭐ 15,372 | 🐛 234 | 🌐 C++ | 📅 2025-09-24
 
 ## Contents
 
@@ -18,11 +18,11 @@
 * [Spotify (with scrolling)](https://github.com/PrayagS/polybar-spotify) ⭐ 625 | 🐛 3 | 🌐 Shell | 📅 2024-04-15
 * [Spotify](https://github.com/Jvanrhijn/polybar-spotify) ⭐ 590 | 🐛 11 | 🌐 Python | 📅 2024-06-05
 * [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control) ⭐ 488 | 🐛 12 | 🌐 Shell | 📅 2024-05-21
-* [Gnome Pomodoro](https://github.com/kantord/i3-gnome-pomodoro) ⭐ 240 | 🐛 8 | 🌐 Python | 📅 2026-02-28
+* [Gnome Pomodoro](https://github.com/kantord/i3-gnome-pomodoro) ⭐ 240 | 🐛 7 | 🌐 Python | 📅 2026-02-28
 * [KDEConnect](https://github.com/HackeSta/polybar-kdeconnect) ⭐ 169 | 🐛 6 | 🌐 Shell | 📅 2021-01-05
 * [Forecast](https://github.com/kamek-pf/polybar-forecast) ⭐ 100 | 🐛 13 | 🌐 Rust | 📅 2022-06-17
 * [Gmail](https://github.com/vyachkonovalov/polybar-gmail) ⭐ 90 | 🐛 0 | 🌐 Python | 📅 2025-01-11
-* [Polytiramisu](https://github.com/anufrievroman/polytiramisu) ⭐ 57 | 🐛 0 | 🌐 Shell | 📅 2024-01-02
+* [Polytiramisu](https://github.com/anufrievroman/polytiramisu) ⭐ 58 | 🐛 0 | 🌐 Shell | 📅 2024-01-02
 * [Crypto](https://github.com/willHol/polybar-crypto) ⭐ 55 | 🐛 0 | 🌐 Python | 📅 2022-02-08
 * [i3 Windows](https://github.com/meelkor/polybar-i3-windows) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2022-07-11
 * [Poly News](https://github.com/zemmsoares/polynews) ⭐ 51 | 🐛 1 | 🌐 Python | 📅 2023-07-12
@@ -68,4 +68,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
