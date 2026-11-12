@@ -10,11 +10,11 @@
 
 ## Plugins
 
-* [Updates pacman aurhelper](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman-aurhelper) ⭐ 2,637 | 🐛 19 | 🌐 Shell | 📅 2026-10-23
-* [Cpu Temppercore](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-cpu-temppercore) ⭐ 2,637 | 🐛 19 | 🌐 Shell | 📅 2026-10-23
-* [Fan Speed](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-fan-speed) ⭐ 2,637 | 🐛 19 | 🌐 Shell | 📅 2026-10-23
-* [Is Active Bluetooth?](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/isactive-bluetooth) ⭐ 2,637 | 🐛 19 | 🌐 Shell | 📅 2026-10-23
-* [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit) ⭐ 2,637 | 🐛 19 | 🌐 Shell | 📅 2026-10-23
+* [Updates pacman aurhelper](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman-aurhelper) ⭐ 2,638 | 🐛 18 | 🌐 Shell | 📅 2026-11-12
+* [Cpu Temppercore](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-cpu-temppercore) ⭐ 2,638 | 🐛 18 | 🌐 Shell | 📅 2026-11-12
+* [Fan Speed](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/system-fan-speed) ⭐ 2,638 | 🐛 18 | 🌐 Shell | 📅 2026-11-12
+* [Is Active Bluetooth?](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/isactive-bluetooth) ⭐ 2,638 | 🐛 18 | 🌐 Shell | 📅 2026-11-12
+* [Inbox Reddit](https://github.com/x70b1/polybar-scripts/tree/master/polybar-scripts/inbox-reddit) ⭐ 2,638 | 🐛 18 | 🌐 Shell | 📅 2026-11-12
 * [Spotify (with scrolling)](https://github.com/PrayagS/polybar-spotify) ⭐ 625 | 🐛 3 | 🌐 Shell | 📅 2024-04-15
 * [Spotify](https://github.com/Jvanrhijn/polybar-spotify) ⭐ 590 | 🐛 11 | 🌐 Python | 📅 2024-06-05
 * [Pulseaudio Control](https://github.com/marioortizmanero/polybar-pulseaudio-control) ⭐ 488 | 🐛 12 | 🌐 Shell | 📅 2024-05-21
@@ -68,4 +68,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
