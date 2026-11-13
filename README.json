@@ -497,7 +497,7 @@
             "open_issues": 1,
             "owner": "crabvk",
             "repo": "bar-protonmail",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "polybar",
               "protonmail",
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T18:59:23.903Z",
+    "last_updated": "2026-11-13T18:35:40.798Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
