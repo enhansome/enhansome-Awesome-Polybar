@@ -1,7 +1,7 @@
 # Awesome Polybar with stars
 
 > A curated list of [Polybar
-> ](https://github.com/jaagr/polybar/) ⭐ 15,375 | 🐛 234 | 🌐 C++ | 📅 2025-09-24
+> ](https://github.com/jaagr/polybar/) ⭐ 15,376 | 🐛 234 | 🌐 C++ | 📅 2025-09-24
 
 ## Contents
 
@@ -40,7 +40,7 @@
 * [Systemd Services](https://github.com/erayaydin/polybar-services) ⭐ 14 | 🐛 0 | 🌐 Shell | 📅 2024-01-02
 * [GitHub](https://github.com/TiagoDanin/Polybar-GitHub) ⚠️ Archived
 * [pomod](https://github.com/liquid600pgm/pomod) ⭐ 9 | 🐛 0 | 🌐 Nim | 📅 2020-03-08
-* [Status one liner](https://github.com/kantord/status-one-liner) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2026-02-28
+* [Status one liner](https://github.com/kantord/status-one-liner) ⚠️ Archived
 * [Docker Script](https://github.com/kerwanp/polybar-script-docker) ⭐ 7 | 🐛 0 | 📅 2018-07-20
 * [ProtonCheck](https://github.com/servusdei2018/protoncheck) ⚠️ Archived
 * [Break Timer](https://github.com/TiagoDanin/Polybar-Break-Timer) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-03
@@ -68,4 +68,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._

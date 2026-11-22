@@ -794,13 +794,13 @@
           "description": "kantord/twm-status-builder",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "See only the most relevant information in your status bar",
             "homepage": null,
             "id": 294663618,
             "language": "Shell",
             "license": "AGPL-3.0",
-            "last_commit": "2026-02-28T14:39:17Z",
+            "last_commit": "2026-11-22T13:51:23Z",
             "open_issues": 0,
             "owner": "kantord",
             "repo": "twm-status-builder",
@@ -982,7 +982,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T18:05:18.481Z",
+    "last_updated": "2026-11-22T18:34:33.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of Polybar ",
